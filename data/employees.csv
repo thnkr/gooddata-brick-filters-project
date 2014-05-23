@@ -1,1 +1,7 @@
-user_id,name,department1,paul,engineering2,kara,engineering3,caitlin,marketing4,patrick,engineering5,bob,sales6,amanda,sales
+user_id,name,department
+1,paul,engineering
+2,kara,engineering
+3,caitlin,marketing
+4,patrick,engineering
+5,bob,sales
+6,amanda,sales
